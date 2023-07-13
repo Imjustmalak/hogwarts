@@ -1,0 +1,140 @@
+.home{
+    background-image:url('this.jpg') ;
+    background-repeat: no-repeat;
+            background-size: cover;
+
+}
+    .navbar{
+        display: flex;
+       
+        width:95%;
+        height:50px;
+        background-color: rgb(151, 143, 143);
+        color:rgb(10, 10, 10);
+        font-size: 20px;
+        font-weight: bold;
+        border-radius: 1rem 1rem 1rem 1rem;
+        justify-content: space-between;
+        align-items: center; 
+        padding: 0 20px;
+        margin-right: 10px;
+    }
+    .submit{
+        width:px;
+        height:60px
+
+    }   
+
+    
+    button.submit {
+       margin-top: 10px;
+        background-color: #4CAF50;
+        color: rgb(0, 0, 0);
+        padding: 5px 10px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+    }
+.houses{
+             background-image:url('002.jpg') ;
+           background-repeat: no-repeat;
+            background-size: cover;
+
+        }
+
+         
+            
+            .btns{
+                font-style: italic;
+            }
+    .msg{
+        width:100%;
+        height:70px;
+        
+        color: black;
+        font-style: italic;
+        border-radius: 1rem 1rem 10rem .1rem;
+        margin-left:200px;
+        font-size: 40px;
+        margin-top: top 20px;
+
+    }
+    .login{
+
+    
+    background-color: rgb(38, 49, 100);
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+     width: 250px;
+     height:300px;
+  margin-top: 100px;
+  margin-left: 500px;
+  color: black;
+ 
+  padding: 25px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  font-style: oblique;
+  font-weight: bold;
+      }
+      .hg{
+        margin-left: 1000px;
+        width:400px;
+        height:200px;
+      } 
+      .quiz{
+        background-color: black;
+        
+      }
+      .welcome {
+        width:600px;
+        height:750px;
+        background-image: url('well.jpg');
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        margin-left: 300px;
+        margin-top: -20px;
+      }
+      
+@media (min-width: 768px) {
+    .hg {
+      margin-left: 100px;
+      width: 200px;
+      height: 100px;
+    }
+  
+    .welcome {
+      width: 400px;
+      height: 500px;
+      margin-left: 150px;
+      margin-top: -20px;
+    }
+  }
+  
+  
+  @media (min-width: 1024px) {
+    .hg {
+      margin-left: 200px;
+      width: 300px;
+      height: 150px;
+    }
+  
+    .welcome {
+      width: 600px;
+      height: 750px;
+      margin-left: 300px;
+      margin-top: -20px;
+    }
+  }
+  
+      
+
+
+
+    
+      
+      
+
+      
+
+    
